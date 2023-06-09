@@ -2,7 +2,7 @@
 Trabalho de algoritmos e estrutura 2 de dados da faculdade PUC-RS
 Enunciado do trabalho:
 
-  Os fenícios estao chegando 
+  <h1>Os fenícios estao chegando</h1> 
     Voce sabe que os fenícios foram grandes navegadores e comerciantes que percorriam os mares Egeu, Adriático e Mediterrâneo levando produtos entre nações. O que voce nào sabe é que eles estào se preparando  para  voltar  a viajar  e desta vez estào dispostos a usar  todas as tecnologias  modernas para encurtar suas viagens, reduzir sua pegada climática e (é claro) aumentar seus lucros.
 Para fazer  tudo isso eles contrataram...   voce!  Eles planejam cada  uma das suas viagens saindo do porto 1 e passando por todos os outros portos de 2 a 9 nesta  ordem,  mas precisam  saber  o tamanho do trajeto total para  poder  ir com o mínimo de combustível  possível  e ainda voltar  para casa depois do último porto.  Entào sua missào é calcular quanto combustível  é necessário,  levando em conta os detalhes a seguir:
   
